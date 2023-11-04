@@ -25,7 +25,7 @@ Aqui você encontrará alguns projetos meus que desenvolvo com certa frequência
 - Desenvolvimento de aplicativos com React Native
 - Desenvolvimento de aplicativos com Java
 - Desenvolvimento de aplicativos web com PHP
-- Administração de bancos de dados MySQL, MariaDB e SQL Server
+- Uso de bancos de dados MySQL, MariaDB e SQL Server
 - Scripting em Bash
 
 
