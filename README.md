@@ -12,7 +12,6 @@ Sou um entusiasta de tecnologia e um estudante de desenvolvimento de sistemas. A
 - Bash
 - MySQL / MariaDB
 - SQL Server
-- E muito mais...
 
 Estou sempre em busca de novos conhecimentos e desafios, e sempre estudando sobre novos assuntos.
 
