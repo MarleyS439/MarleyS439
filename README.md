@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um entusiasta de tecnologia e um estudante de desenvolvimento de sistemas. Atualmente, estou dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias, incluindo:
+Sou um entusiasta de tecnologia, formado em Desenvolvimento de Sistemas. Atualmente, estou dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias, incluindo:
 
 - HTML
 - CSS
@@ -11,6 +11,7 @@ Sou um entusiasta de tecnologia e um estudante de desenvolvimento de sistemas. A
 - PHP
 - Bash
 - MySQL / MariaDB / SQL Server
+- Sistemas Linux
 
 Estou sempre em busca de novos conhecimentos e desafios, e sempre estudando sobre novos assuntos.
 
