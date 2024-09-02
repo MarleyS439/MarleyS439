@@ -1,8 +1,12 @@
-# Olá, eu sou Marley 👋
+Aqui está o texto traduzido para o inglês:
 
-## Sobre mim
+---
 
-Sou um entusiasta de tecnologia, formado em Desenvolvimento de Sistemas. Atualmente, estou dedicado a aprender e aprimorar minhas habilidades em diversas tecnologias, incluindo:
+# Hello, I'm Marley 👋
+
+## About Me
+
+I am a technology enthusiast with a background in Systems Development. Currently, I am dedicated to learning and improving my skills across various technologies, including:
 
 - HTML
 - CSS
@@ -11,26 +15,24 @@ Sou um entusiasta de tecnologia, formado em Desenvolvimento de Sistemas. Atualme
 - PHP
 - Bash
 - MySQL / MariaDB / SQL Server
-- Sistemas Linux
+- Linux Systems
 
-Estou sempre em busca de novos conhecimentos e desafios, e sempre estudando sobre novos assuntos.
+I am always seeking new knowledge and challenges, constantly studying new subjects.
 
-Aqui você encontrará alguns projetos meus que desenvolvo com certa frequência.
+Here, you will find some of my projects that I develop on a regular basis.
 
+## Skills
 
-## Habilidades
+- Web development with HTML, CSS, and JavaScript
+- Application development with React Native
+- Application development with Java
+- Web application development with PHP
+- Use of MySQL, MariaDB, and SQL Server databases
+- Scripting in Bash
 
-- Desenvolvimento web com HTML, CSS e JavaScript
-- Desenvolvimento de aplicativos com React Native
-- Desenvolvimento de aplicativos com Java
-- Desenvolvimento de aplicativos web com PHP
-- Uso de bancos de dados MySQL, MariaDB e SQL Server
-- Scripting em Bash
+## Contact
 
-
-## Contato
-
-Se você quiser entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/marleysantos/), pelo [Instagram](https://instagram.com/marleysantos4390) ou pelo meu e-mail: [marleysantos439@gmail.com](mailto:marleysantos439@gmail.com)
+If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/marleysantos/), [Instagram](https://instagram.com/marleysantos4390), or via email at: [marleysantos439@gmail.com](mailto:marleysantos439@gmail.com)
 
 <!---
 MarleyS439/MarleyS439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
