@@ -1,6 +1,4 @@
-Aqui está o texto traduzido para o inglês:
 
----
 
 # Hello, I'm Marley 👋
 
