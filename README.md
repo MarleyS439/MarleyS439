@@ -12,7 +12,7 @@ I am a technology enthusiast with a background in Systems Development. Currently
 - Java
 - PHP
 - Bash
-- MySQL / MariaDB / SQL Server
+- MySQL / SQL Server
 - Linux Systems
 
 I am always seeking new knowledge and challenges, constantly studying new subjects.
