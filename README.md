@@ -9,8 +9,8 @@ I am a technology enthusiast with a background in Systems Development. Currently
 - HTML
 - CSS
 - JavaScript
-- Java
 - PHP
+- Java
 - Bash
 - MySQL / SQL Server
 - Linux Systems
