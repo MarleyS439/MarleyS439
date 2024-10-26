@@ -92,7 +92,7 @@
 
 ###
 
-<p align="left">If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/marleysantos/), [Instagram](https://www.instagram.com/mdss4433/), or via email at: [marleysantos439@gmail.com](mailto:marleysantos439@gmail.com/)</p>
+<p align="left">If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/marleysantos/) or [Instagram](https://www.instagram.com/mdss4433/)</p>
 
 ###
 
