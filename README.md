@@ -89,10 +89,6 @@
 
 ###
 
-<p align="left">If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/marleysantos/) or [Instagram](https://www.instagram.com/mdss4433/)</p>
-
-###
-
 <div align="center" style="display: flex">
 <a href="https://www.linkedin.com/in/marleysantos/" title="Open LinkedIn" style="margin-right: 15px">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
