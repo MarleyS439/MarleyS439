@@ -18,13 +18,12 @@
 
 ###
 
-<li>Web development with HTML, CSS, and JavaScript</li>
+<li>Web development with HTML, Tailwind CSS, and JavaScript</li>
 <li>Web application development with PHP</li>
-<li>Use of MySQL, MariaDB, and SQL Server databases</li>
+<li>Use of MySQL or MariaDB</li>
 <li>Application development with Java</li>
 <li>Scripting in Bash</li>
 <li>Use Linux Systems</li>
-<li>Application development with React Native</li>
 
 <h2 align="left">💻 I code with</h2>
 
@@ -76,9 +75,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarleyS439&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 
